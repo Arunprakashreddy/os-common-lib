@@ -1,4 +1,4 @@
-package com.gitcommon;
+package com.github;
 
 /**
  * Hello world!
